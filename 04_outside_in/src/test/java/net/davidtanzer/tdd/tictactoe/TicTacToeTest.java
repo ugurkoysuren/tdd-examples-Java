@@ -11,5 +11,4 @@ class TicTacToeTest {
 	public void fixmeGiveMeABetterName() {
 		fail("Fixme: Implement me!");
 	}
-
 }
